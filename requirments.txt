@@ -1,0 +1,27 @@
+# Data Ingestion
+pandas==2.1.1
+requests==2.31.0
+
+# File Handling
+openpyxl==3.1.2
+PyPDF2==3.0.1
+
+# Data Processing
+pyarrow==13.0.0
+numpy==1.26.0
+
+# Orchestration
+apache-airflow==2.7.2
+
+# Database Connectivity
+psycopg2-binary==2.9.8
+
+# AWS SDK for Data Storage and Processing
+boto3==1.28.0
+
+
+# Logging and Monitoring
+loguru==0.7.2
+
+# Other Utilities
+pyyaml==6.0
