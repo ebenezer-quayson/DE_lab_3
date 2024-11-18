@@ -1,4 +1,4 @@
-# Data Ingestion
+# Data Ingest
 pandas==2.1.1
 requests==2.31.0
 
